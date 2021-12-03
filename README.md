@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sandhya Maram</h1>
-<h3 align="center">I remember my excitement and surprise when I wrote my first C program in my college. I was fascinated by how computers do complex things in no time just by writing simple programs. This motivated me to learn programming despite of being a student in electronics. I was then a part of a group of 9 members having similar interests in programming and started learning Python with the help of our NGO mentors. We used to spend the entire weekend and time after our college hours at our friend’s house getting our hands dirty with programming. This drove me towards pursuing my career in full-stack web development and I'm loving this journey. In my free time, I also sketch, learn robotics and do some gardening. I also adapt to changes quickly, love learning new things and I am very optimistic. I am also adept in HTML, CSS, Javascript, Java, SpringBoot, Python, SQL, and C programming.</h3>
+<h3 align="center">I remember my excitement and surprise when I wrote my first C program in my college. I was fascinated by how computers do complex things in no time just by writing simple programs. This motivated me to learn programming despite of being a student in electronics. I was then a part of a group of 9 members having similar interests in programming and started learning Python with the help of our NGO mentors. We used to spend the entire weekend and time after our college hours at our friend’s house getting our hands dirty with programming. </br>
+This drove me towards pursuing my career in full-stack web development and I'm loving this journey. In my free time, I also sketch, learn robotics and do some gardening.
+  </br>
+  I also adapt to changes quickly, love learning new things and I am very optimistic. 
+  </br>
+  I am also adept in HTML, CSS, Javascript, Java, SpringBoot, Python, SQL, and C programming.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandhya9119&label=Profile%20views&color=0e75b6&style=flat" alt="sandhya9119" /> </p>
 
